@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://andyzhou.vip/"/>
-  <updated>2019-08-30T06:15:31.959Z</updated>
+  <updated>2019-08-30T08:22:12.569Z</updated>
   <id>https://andyzhou.vip/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BBB</title>
+    <link href="https://andyzhou.vip/title/"/>
+    <id>https://andyzhou.vip/title/</id>
+    <published>2019-08-30T08:22:00.000Z</published>
+    <updated>2019-08-30T08:22:12.569Z</updated>
+    
+    <content type="html"><![CDATA[<p>这又是一个测验的文章。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这又是一个测验的文章。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>AAA</title>
